@@ -1,7 +1,5 @@
 #pragma once
 
-// Same ngrok WebSocket URL as the main Synchora-Device board
-// Both boards connect to the same Synchora-MS server instance
-#define WEBSOCKET_URL  "ws://e747-2401-4900-1c01-95a0-503a-673-513d-14d0.ngrok-free.app"
+#define WEBSOCKET_URL  "ws://4635-2401-4900-1c00-2627-319f-103d-ae49-5549.ngrok-free.app"
 #define WEBSOCKET_PORT 80
 #define WEBSOCKET_PATH "/"
